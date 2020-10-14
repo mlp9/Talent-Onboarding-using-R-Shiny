@@ -5,7 +5,7 @@ Through the process of onboarding, we help new talent find their place in the co
 
 Once a candidate joins the company, it is very crucial to identify the right skills of that candidate and then finding the right projects that the candidate that can be assigned. In this module, based on the competency of the candidate, the module while find the nearest best matching projects that the candidate can be assigned.
 
-# Application Link : https://mlp9csk.shinyapps.io/TALENT_ONBOARDING/
+# Application Link : 
 
 ## Problem:
 Finding best projects for a new candidate to assign based on their matching technical and behavioral competency.
